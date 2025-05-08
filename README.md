@@ -1,4 +1,4 @@
-# IMDb Data Analysis using Excel
+# IMDb Data Analysis using MS Excel
 
 ![](https://github.com/skimran45/IMDb-Portfolio-Project-Excel/blob/a6f36abc8f909e46252564908b754bf6d4baa7d7/Logo.png)
 
